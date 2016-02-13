@@ -10,7 +10,7 @@
 /* Tweet text styles */
 .tweet-text,
 .ProfileTweet-text {
-  font-family: Georgia !important;
+  font-family: Helvetica, Arial, sans-serif !important;
   font-size: 20px !important;
   line-height: 1.5 !important;
   color: #444 !important;
